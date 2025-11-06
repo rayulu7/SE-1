@@ -1,0 +1,29 @@
+<table>
+ <tr>
+<th> Name </th>
+<th> Age </th>
+<th> City </th>
+<th > Country </th>
+</tr>
+<tr>
+<td> Nitin Singh </td>
+<td> Hyderabad</td>
+<td> Bangalore </td>
+</tr>
+<tr>
+<td> John Doe </td>
+<td> 30 </td>
+<td> New York </td>
+</tr>
+<tr>
+<td> Jane Smith </td>
+<td> 28 </td>
+<td> London </td>
+</tr>
+<tr>
+<td> Rayulu M</td>
+<td> 22</td>
+<td> Hyderabad</td>
+<td> India </td>
+</tr>
+</table>
